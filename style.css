@@ -1,0 +1,63 @@
+.welcome
+{
+    font-family: 'Lemonada', cursive;
+}
+h1
+{
+    font-size: 50px;
+}
+h2
+{
+    font-size: 40px;
+}
+.name-highlight
+{
+    color: orange;
+    font-family: cursive;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+   
+}
+
+.half-width img
+{
+    width: 100%;
+}
+ p
+{
+    text-justify: auto;
+    font-family: cursive;
+    color: dimgray;
+}
+.button
+{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg,lightsalmon ,tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+#exp
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    
+}
+#exp
+{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg,blue,cyan);
+    border-image-slice: 1;
+}
